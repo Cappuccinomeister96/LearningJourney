@@ -1,0 +1,8 @@
+# Ignore environment variables
+.env
+
+# Ignore other common files
+*.pyc
+__pycache__/
+.DS_Store
+.vscode/
