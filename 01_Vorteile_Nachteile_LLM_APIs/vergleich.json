@@ -1,0 +1,50 @@
+[
+  {
+    "provider": "OpenAI",
+    "model": "GPT-3.5 Turbo",
+    "input_cost_usd_per_1000_tokens": 0.0015,
+    "output_cost_usd_per_1000_tokens": 0.0020
+  },
+  {
+    "provider": "OpenAI",
+    "model": "GPT-4 Turbo",
+    "input_cost_usd_per_1000_tokens": 0.0100,
+    "output_cost_usd_per_1000_tokens": 0.0300
+  },
+  {
+    "provider": "OpenAI",
+    "model": "GPT-4.5 (Orion)",
+    "input_cost_usd_per_1000_tokens": 0.0750,
+    "output_cost_usd_per_1000_tokens": 0.1500
+  },
+  {
+    "provider": "Anthropic",
+    "model": "Claude Sonnet 4",
+    "input_cost_usd_per_1000_tokens": 0.0030,
+    "output_cost_usd_per_1000_tokens": 0.0150
+  },
+  {
+    "provider": "Anthropic",
+    "model": "Claude Instant 1.2",
+    "input_cost_usd_per_1000_tokens": 0.00163,
+    "output_cost_usd_per_1000_tokens": 0.00551
+  },
+  {
+    "provider": "Google",
+    "model": "PaLM 2 Text Bison (text-bison-001)",
+    "input_cost_usd_per_1000_tokens": 0.1250,
+    "output_cost_usd_per_1000_tokens": 0.1250
+  },
+  {
+    "provider": "Cohere",
+    "model": "Command",
+    "input_cost_usd_per_1000_tokens": 0.0010,
+    "output_cost_usd_per_1000_tokens": 0.0020
+  },
+  {
+    "provider": "Cohere",
+    "model": "Command R+",
+    "input_cost_usd_per_1000_tokens": 0.0025,
+    "output_cost_usd_per_1000_tokens": 0.0100
+  }
+]
