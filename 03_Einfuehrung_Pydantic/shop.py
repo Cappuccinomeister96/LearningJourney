@@ -13,6 +13,8 @@ if __name__ == "__main__":
         {"name": "Al", "age": 25, "email": "alice@example.com"},
         {"name": "Bob", "age": -5, "email": "bob@example.com"},
         {"name": "Charlie", "age": 30, "email": "c@b"},
+        {"name": "Charliead", "age": 30, "email": "c@b"},
+
     ]
 
     for test in tests:
